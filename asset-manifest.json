@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/phithithuhuong/-demo-deploy-github-pages/static/css/main.073c9b0a.css",
+    "main.js": "/phithithuhuong/-demo-deploy-github-pages/static/js/main.72da2ffd.js",
+    "static/js/787.c18e1761.chunk.js": "/phithithuhuong/-demo-deploy-github-pages/static/js/787.c18e1761.chunk.js",
+    "static/media/logo.svg": "/phithithuhuong/-demo-deploy-github-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/phithithuhuong/-demo-deploy-github-pages/index.html",
+    "main.073c9b0a.css.map": "/phithithuhuong/-demo-deploy-github-pages/static/css/main.073c9b0a.css.map",
+    "main.72da2ffd.js.map": "/phithithuhuong/-demo-deploy-github-pages/static/js/main.72da2ffd.js.map",
+    "787.c18e1761.chunk.js.map": "/phithithuhuong/-demo-deploy-github-pages/static/js/787.c18e1761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.72da2ffd.js"
+  ]
+}
